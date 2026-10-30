@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="-KlWUi9Lsch0iW4YTpb-">
+    <mxGraphModel dx="1414" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-17" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;exitX=0.008;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-3">
+          <mxGeometry relative="1" x="0.0575" as="geometry">
+            <Array as="points">
+              <mxPoint x="341" y="380" />
+              <mxPoint x="230" y="380" />
+              <mxPoint x="230" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-18" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Resultado del combate" vertex="1">
+          <mxGeometry relative="1" x="-0.1811" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-19" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.895;entryY=1.007;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;entryPerimeter=0;exitX=0.187;exitY=0.894;exitDx=0;exitDy=0;exitPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-3">
+          <mxGeometry relative="1" x="-0.1234" as="geometry">
+            <Array as="points">
+              <mxPoint x="362.4" y="420" />
+              <mxPoint x="137.4" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-20" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Ranking de arena" vertex="1">
+          <mxGeometry relative="1" x="-0.0098" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-23" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VjcW5QIXuB52tKPNhrC7-6">
+          <mxGeometry relative="1" x="0.3388" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-24" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;div&gt;Reporte de actividad de jugadores&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0205" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-25" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;" target="VjcW5QIXuB52tKPNhrC7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-26" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Correo de confirmación" vertex="1">
+          <mxGeometry relative="1" x="-0.0556" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-27" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="VjcW5QIXuB52tKPNhrC7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="390" />
+              <mxPoint x="370" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-28" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="copia de seguridad de partidas" vertex="1">
+          <mxGeometry relative="1" x="-0.0963" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="0&lt;div&gt;RPG Manager&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-7" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" x="0.1451" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="260" />
+              <mxPoint x="390" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-12" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Datos de registro" vertex="1">
+          <mxGeometry relative="1" x="0.1892" y="-1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.291;entryY=0.026;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;entryPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" x="-0.1206" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="300" />
+              <mxPoint x="374.9" y="300" />
+            </Array>
+            <mxPoint x="100" y="310" as="sourcePoint" />
+            <mxPoint x="380.03999999999996" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-14" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;div&gt;Datos del personaje (nombre,clase)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0751" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jugador" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Servicio de correo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Servicio de Respaldo en la Nube" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Game Master" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-15" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.391;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;entryPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" x="0.1009" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-16" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Acción de combate" vertex="1">
+          <mxGeometry relative="1" x="0.1795" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-21" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-22" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Datos de la mision (nombre, recompensa)" vertex="1">
+          <mxGeometry relative="1" x="-0.2381" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-29" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;exitX=0.552;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" x="-0.0467" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="550.3" />
+              <mxPoint x="460" y="389.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-30" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="partida guardada" vertex="1">
+          <mxGeometry relative="1" x="-0.1228" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-31" edge="1" parent="1" source="VjcW5QIXuB52tKPNhrC7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;exitX=0.062;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;" target="VjcW5QIXuB52tKPNhrC7-2">
+          <mxGeometry relative="1" x="0.3126" as="geometry">
+            <Array as="points">
+              <mxPoint x="37.4" y="240" />
+              <mxPoint x="395.1" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjcW5QIXuB52tKPNhrC7-32" connectable="0" parent="VjcW5QIXuB52tKPNhrC7-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="credenciales inicio de sesion" vertex="1">
+          <mxGeometry relative="1" x="0.142" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
